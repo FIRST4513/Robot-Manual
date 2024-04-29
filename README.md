@@ -5,4 +5,4 @@ This is in OpenOffice Writer format for now. This format was chosen for its open
 
 A .pdf verion is included for downloading or printing.
 
-This version is a draft. It has a lot of TODO comments throughout and its index is incomplete.
+This version is a draft. It has a lot of TODO comments throughout.
