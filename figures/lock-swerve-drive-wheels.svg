@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg78273"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="lock-swerve-drive-wheels.svg"
+   inkscape:export-filename="lock-swerve-drive-wheels.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview78275"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.68862935"
+     inkscape:cx="329.64032"
+     inkscape:cy="534.39488"
+     inkscape:window-width="1920"
+     inkscape:window-height="939"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs78270">
+    <rect
+       x="49.427063"
+       y="366.35815"
+       width="392.78384"
+       height="165.5263"
+       id="rect78989" />
+    <rect
+       x="517.60269"
+       y="595.04153"
+       width="473.0179"
+       height="289.38831"
+       id="rect78983" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:0.95;fill:#eaeaea;stroke:#000000;stroke-width:0.688136;stroke-dasharray:none;fill-opacity:1"
+       id="rect78446"
+       width="59.311863"
+       height="59.311863"
+       x="30.344067"
+       y="30.344067"
+       inkscape:export-filename="lock-swerve-drive-wheels.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:0.95;fill:#ffffff;stroke:#000000;stroke-width:0.749079;stroke-dasharray:none;fill-opacity:1"
+       id="rect78811"
+       width="14.250921"
+       height="12.441577"
+       x="35.374542"
+       y="35.374542" />
+    <path
+       style="opacity:0.95;fill:#ffffff;stroke:#000000;stroke-width:1.41111111;stroke-dasharray:none;fill-opacity:1"
+       d="M 45.418856,38.120796 39.20527,45.714605"
+       id="path78867" />
+    <g
+       id="g78924"
+       transform="rotate(-90,55.545635,14.705126)"
+       style="fill:#ffffff;fill-opacity:1">
+      <rect
+         style="opacity:0.95;fill:#ffffff;stroke:#000000;stroke-width:0.749079;stroke-dasharray:none;fill-opacity:1"
+         id="rect78811-5"
+         width="14.250921"
+         height="12.441577"
+         x="21.529972"
+         y="30.438702" />
+      <path
+         style="opacity:0.95;fill:#ffffff;stroke:#000000;stroke-width:1.41111;stroke-dasharray:none;fill-opacity:1"
+         d="m 31.574299,33.184952 -6.213588,7.593809"
+         id="path78867-6" />
+    </g>
+    <rect
+       style="opacity:0.95;fill:#ffffff;stroke:#000000;stroke-width:0.749079;stroke-dasharray:none;fill-opacity:1"
+       id="rect78811-2"
+       width="14.250921"
+       height="12.441577"
+       x="35.374538"
+       y="70.374565" />
+    <path
+       style="opacity:0.95;fill:#ffffff;stroke:#000000;stroke-width:1.41111;stroke-dasharray:none;fill-opacity:1"
+       d="M 46.108971,80.024507 38.515162,73.810918"
+       id="path78867-9" />
+    <g
+       id="g78924-1"
+       transform="translate(48.844575,39.935838)"
+       style="fill:#ffffff;fill-opacity:1">
+      <rect
+         style="opacity:0.95;fill:#ffffff;stroke:#000000;stroke-width:0.749079;stroke-dasharray:none;fill-opacity:1"
+         id="rect78811-5-2"
+         width="14.250921"
+         height="12.441577"
+         x="21.529972"
+         y="30.438702" />
+      <path
+         style="opacity:0.95;fill:#ffffff;stroke:#000000;stroke-width:1.41111;stroke-dasharray:none;fill-opacity:1"
+         d="m 31.574299,33.184952 -6.213588,7.593809"
+         id="path78867-6-7" />
+    </g>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text78981"
+       style="font-size:12px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';white-space:pre;shape-inside:url(#rect78983);display:inline;opacity:0.95;fill:#000000;stroke:#000000;stroke-width:0;stroke-dasharray:none" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text78987"
+       style="font-size:12px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';white-space:pre;shape-inside:url(#rect78989);display:inline;opacity:0.95;fill:#000000;stroke:#000000;stroke-width:0;stroke-dasharray:none" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;opacity:0.95;fill:#000000;stroke:#000000;stroke-width:0.0705556;stroke-dasharray:none"
+       x="97.667168"
+       y="63.804291"
+       id="text78995"><tspan
+         sodipodi:role="line"
+         id="tspan78993"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.0705556;stroke-dasharray:none"
+         x="97.667168"
+         y="63.804291">Robot</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;opacity:0.95;fill:#000000;stroke:#000000;stroke-width:0.0705556;stroke-dasharray:none"
+       x="97.276756"
+       y="73.138985"
+       id="text78999"><tspan
+         sodipodi:role="line"
+         id="tspan78997"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.0705556;stroke-dasharray:none"
+         x="97.276756"
+         y="73.138985">Swerve Module</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;opacity:0.95;fill:#000000;stroke:#000000;stroke-width:0.0705556;stroke-dasharray:none"
+       x="97.097321"
+       y="80.040215"
+       id="text79003"><tspan
+         sodipodi:role="line"
+         id="tspan79001"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.0705556;stroke-dasharray:none"
+         x="97.097321"
+         y="80.040215">Wheel</tspan></text>
+    <path
+       style="opacity:0.95;fill:#000000;stroke:#000000;stroke-width:0.0705556;stroke-dasharray:none"
+       d="m 90.288236,62.878173 4.663443,-0.246901"
+       id="path79005"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="opacity:0.95;fill:#000000;stroke:#000000;stroke-width:0.0705556;stroke-dasharray:none"
+       d="m 76.634286,77.679803 19.272171,0.107662"
+       id="path79009"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="opacity:0.95;fill:#000000;stroke:#000000;stroke-width:0.0705556;stroke-dasharray:none"
+       d="m 84.562941,72.562142 10.00314,0"
+       id="path79011"
+       sodipodi:nodetypes="cc" />
+  </g>
+</svg>

@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg97916"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="camera-tag-vertical-plane.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview97918"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.15"
+     inkscape:cx="190"
+     inkscape:cy="251.73913"
+     inkscape:window-width="1400"
+     inkscape:window-height="922"
+     inkscape:window-x="134"
+     inkscape:window-y="32"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs97913">
+    <rect
+       x="41.989746"
+       y="6.2424635"
+       width="251.93535"
+       height="220.79484"
+       id="rect10203" />
+    <marker
+       style="overflow:visible"
+       id="marker98604"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow2"
+       markerWidth="7.6999998"
+       markerHeight="5.5999999"
+       viewBox="0 0 7.7 5.6"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path98602" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker98540"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow2"
+       markerWidth="7.6999998"
+       markerHeight="5.5999999"
+       viewBox="0 0 7.7 5.6"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path98538" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker98486"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow2"
+       markerWidth="7.6999998"
+       markerHeight="5.5999999"
+       viewBox="0 0 7.7 5.6"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path98484" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow2"
+       markerWidth="7.6999998"
+       markerHeight="5.5999999"
+       viewBox="0 0 7.7 5.6"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="arrow2L" />
+    </marker>
+    <rect
+       x="501.94632"
+       y="258.35308"
+       width="59.943524"
+       height="36.174685"
+       id="rect98073" />
+    <marker
+       style="overflow:visible"
+       id="Arrow2-5"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow2"
+       markerWidth="7.6999998"
+       markerHeight="5.5999999"
+       viewBox="0 0 7.7 5.6"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="arrow2L-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2-6"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow2"
+       markerWidth="7.6999998"
+       markerHeight="5.5999999"
+       viewBox="0 0 7.7 5.6"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="arrow2L-8" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g98043"
+       transform="rotate(-28.542538,26.09471,61.560398)">
+      <rect
+         style="opacity:0.95;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.352777"
+         id="rect98037"
+         width="4.17664"
+         height="5.9215994"
+         x="22.512922"
+         y="58.851734" />
+      <path
+         style="opacity:0.95;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.352777"
+         d="m 26.365531,59.157721 3.310966,-2.971974 v 10.839142 l -3.485364,-2.012275"
+         id="path98039" />
+    </g>
+    <rect
+       style="opacity:0.95;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.352777"
+       id="rect98045"
+       width="1.604642"
+       height="15.401976"
+       x="123.16236"
+       y="17.538914" />
+    <path
+       style="opacity:0.95;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.352777"
+       d="M 15.95753,80.293648 H 130.23066"
+       id="path98047" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';opacity:0.95;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+       x="19.875956"
+       y="69.836998"
+       id="text98051"><tspan
+         sodipodi:role="line"
+         id="tspan98049"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+         x="19.875956"
+         y="69.836998">Camera</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';opacity:0.95;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+       x="128.17621"
+       y="17.728386"
+       id="text98055"><tspan
+         sodipodi:role="line"
+         id="tspan98053"
+         style="stroke-width:0.1;stroke-dasharray:none;fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+         x="128.17621"
+         y="17.728386">Tag</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';opacity:0.95;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+       x="92.39164"
+       y="85.116234"
+       id="text98059"
+       inkscape:export-filename="camera-tag-vertical-plane.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan98057"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+         x="92.39164"
+         y="85.116234">Floor horizontal</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';opacity:0.95;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+       x="88.223381"
+       y="23.026552"
+       id="text98059-1"
+       inkscape:export-filename="camera-tag-vertical-plane.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan98057-4"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+         x="88.223381"
+         y="23.026552">Tag horizontal</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';opacity:0.95;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+       x="134.91692"
+       y="81.033447"
+       id="text98059-9"><tspan
+         sodipodi:role="line"
+         id="tspan98057-1"
+         style="stroke-width:0.1;stroke-dasharray:none;fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+         x="134.91692"
+         y="81.033447">z</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';white-space:pre;inline-size:13.5549;display:inline;opacity:0.95;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+       x="59.230255"
+       y="32.714836"
+       id="text98063-3"
+       transform="rotate(-21.235777,124.57416,88.226246)"><tspan
+         x="59.230255"
+         y="32.714836"
+         id="tspan12459"><tspan
+           dx="0 1.5952514 0.88211668 1.9533694 0.88211632 2.0153809 2.2169189 1.9456177 3.0928345 1.9533701 1.3053455 1.9456177"
+           id="tspan12457">FieldCameraT</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';opacity:0.95;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+       x="63.260689"
+       y="64.893921"
+       id="text98067"><tspan
+         sodipodi:role="line"
+         id="tspan98065"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+         x="63.260689"
+         y="64.893921">CameraTagHorizontalDistance</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+         x="63.260689"
+         y="68.862671"
+         id="tspan98069" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';opacity:0.95;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+       x="33.341873"
+       y="64.735901"
+       id="text98067-9"
+       transform="rotate(-19.428379)"><tspan
+         id="tspan98065-2"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+         x="33.341873"
+         y="64.735901"
+         sodipodi:role="line">CameraTagDistance</tspan><tspan
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+         x="33.341873"
+         y="68.704651"
+         id="tspan98069-0"
+         sodipodi:role="line" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';opacity:0.95;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+       x="32.929363"
+       y="65.811157"
+       id="text98067-4"
+       transform="rotate(-8.9233577)"><tspan
+         sodipodi:role="line"
+         id="tspan98065-5"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+         x="32.929363"
+         y="65.811157">FieldCameraToTagPitch</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+         x="32.929363"
+         y="69.779907"
+         id="tspan98069-2" /></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text98071"
+       style="font-size:12px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';white-space:pre;shape-inside:url(#rect98073);display:inline;opacity:0.95;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:1.33333" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';opacity:0.95;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+       x="98.280495"
+       y="72.64994"
+       id="text98079"><tspan
+         sodipodi:role="line"
+         id="tspan98077"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+         x="98.280495"
+         y="72.64994">CameraHeight</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';opacity:0.95;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+       x="129.50922"
+       y="51.730637"
+       id="text98083"><tspan
+         sodipodi:role="line"
+         id="tspan98081"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+         x="129.50922"
+         y="51.730637">TagHeight</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';opacity:0.95;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+       x="96.736855"
+       y="47.450596"
+       id="text98083-4"><tspan
+         sodipodi:role="line"
+         id="tspan98081-3"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+         x="96.736855"
+         y="47.450596">CameraTagHeight</tspan></text>
+    <path
+       style="opacity:0.95;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.244025;stroke-dasharray:none;marker-start:url(#marker98604);marker-end:url(#Arrow2)"
+       d="M 121.97284,25.635271 26.756697,61.781945 h 95.569533"
+       id="path98085"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="opacity:0.95;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.244025;stroke-dasharray:none;marker-start:;marker-end:url(#Arrow2-6)"
+       d="m 123.02926,25.134071 -41.508163,0"
+       id="path98085-8"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="opacity:0.95;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.248748;stroke-dasharray:none;marker-start:url(#marker98604);marker-end:url(#marker98540)"
+       d="m 127.63189,26.131231 v 52.10294"
+       id="path98087" />
+    <path
+       style="opacity:0.95;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.24694444;marker-start:url(#marker98486);marker-end:url(#Arrow2);stroke-dasharray:none"
+       d="M 122.74678,78.584095 V 63.776064"
+       id="path98091" />
+    <path
+       style="opacity:0.95;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.134067;stroke-dasharray:none;marker-end:url(#Arrow2-5)"
+       d="M 135.90524,77.691165 V 73.326548"
+       id="path98091-2" />
+    <path
+       style="opacity:0.95;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.24694444;marker-start:url(#marker98604);marker-end:url(#marker98540);stroke-dasharray:none"
+       d="M 126.16596,59.967877 V 26.136665"
+       id="path98093"
+       inkscape:export-filename="camera-tag-vertical-plane.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="opacity:0.95;fill:none;stroke:#000000;stroke-width:0.176389;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path9605"
+       sodipodi:type="arc"
+       sodipodi:cx="26.580608"
+       sodipodi:cy="61.88924"
+       sodipodi:rx="14.621186"
+       sodipodi:ry="14.621186"
+       sodipodi:start="5.9256539"
+       sodipodi:end="6.2779858"
+       sodipodi:arc-type="slice"
+       d="m 40.277203,56.772369 a 14.621186,14.621186 0 0 1 0.924394,5.040849 l -14.620989,0.07602 z" />
+    <path
+       style="opacity:0.95;fill:none;stroke:#000000;stroke-width:0.176389;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path9605-4"
+       sodipodi:type="arc"
+       sodipodi:cx="-123.271"
+       sodipodi:cy="-25.2188"
+       sodipodi:rx="14.621186"
+       sodipodi:ry="14.621186"
+       sodipodi:start="5.9256539"
+       sodipodi:end="6.2779858"
+       sodipodi:arc-type="slice"
+       d="m -109.57441,-30.335671 a 14.621186,14.621186 0 0 1 0.92439,5.040849 l -14.62098,0.07602 z"
+       transform="scale(-1)" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';white-space:pre;inline-size:13.5549;display:inline;opacity:0.95;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+       x="59.230255"
+       y="32.714836"
+       id="text98063-7"
+       transform="rotate(-21.235777,128.29579,77.396399)"><tspan
+         x="59.230255"
+         y="32.714836"
+         id="tspan12463"><tspan
+           dx="0 1.5952514 0.88211668 1.9533694 0.88211632 2.0153809 2.2169189 1.9456177 3.0928345 1.9533701 1.3053455 1.9456177 1.3999157 1.9425163 1.413866 1.9456177 2.0153809 1.8448486 0.88211823"
+           id="tspan12461">FieldCameraToTagPit</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';text-align:center;text-anchor:middle;opacity:0.95;fill:none;stroke:#000000;stroke-width:0.176389;stroke-dasharray:none;stroke-dashoffset:0"
+       x="16.706955"
+       y="26.608362"
+       id="text10187"><tspan
+         sodipodi:role="line"
+         id="tspan10185"
+         style="stroke-width:0.176389"
+         x="16.706955"
+         y="26.608362" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';text-align:center;text-anchor:middle;opacity:0.95;fill:none;stroke:#000000;stroke-width:0.176389;stroke-dasharray:none;stroke-dashoffset:0"
+       x="16.369064"
+       y="26.608362"
+       id="text10191"><tspan
+         sodipodi:role="line"
+         id="tspan10189"
+         style="stroke-width:0.176389"
+         x="16.369064"
+         y="26.608362" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';text-align:center;text-anchor:middle;opacity:0.95;fill:none;stroke:#000000;stroke-width:0.176389;stroke-dasharray:none;stroke-dashoffset:0"
+       x="33.90427"
+       y="13.710634"
+       id="text10199"><tspan
+         sodipodi:role="line"
+         id="tspan10197"
+         style="stroke-width:0.176389"
+         x="33.90427"
+         y="13.710634" /></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text10201"
+       style="fill:none;font-size:12px;-inkscape-font-specification:'Liberation Sans, Normal';font-family:'Liberation Sans';stroke-width:0.66666667;opacity:0.95;stroke:#000000;text-align:center;stroke-dasharray:none;stroke-dashoffset:0;white-space:pre;shape-inside:url(#rect10203)" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';opacity:0.95;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+       x="66.119591"
+       y="45.538883"
+       id="text98067-5"
+       transform="rotate(-8.9653877)"><tspan
+         sodipodi:role="line"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+         x="66.119591"
+         y="45.538883"
+         id="tspan98069-7">FieldTagToCameraPitch</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';text-align:center;text-anchor:middle;opacity:0.95;fill:none;stroke:#000000;stroke-width:0.176389;stroke-dasharray:none;stroke-dashoffset:0"
+       x="113.72056"
+       y="47.839149"
+       id="text12220"
+       inkscape:export-filename="camera-tag-vertical-plane.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan12218"
+         style="stroke-width:0.176389"
+         x="113.72056"
+         y="47.839149" /></text>
+  </g>
+</svg>

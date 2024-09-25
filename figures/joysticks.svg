@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="8.5in"
+   height="9in"
+   viewBox="0 0 215.9 228.6"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="joysticks.svg"
+   inkscape:export-filename="2023-11-02-subsystem-architecture.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="in"
+     showgrid="false"
+     inkscape:zoom="1.414741"
+     inkscape:cx="228.66376"
+     inkscape:cy="452.37962"
+     inkscape:window-width="1920"
+     inkscape:window-height="939"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <sodipodi:guide
+       position="0,601.557"
+       orientation="0,793.70079"
+       id="guide7820"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="210,601.557"
+       orientation="1122.5197,0"
+       id="guide7822"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="210,304.55703"
+       orientation="0,-793.70079"
+       id="guide7824"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,304.55703"
+       orientation="-1122.5197,0"
+       id="guide7826"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <rect
+       x="421.28022"
+       y="328.0742"
+       width="385.1028"
+       height="104.50928"
+       id="rect759" />
+    <rect
+       x="-2.0020267"
+       y="216.32558"
+       width="426.72377"
+       height="114.46822"
+       id="rect753" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:0.95;fill:#eaeaea;fill-opacity:1;stroke:#000000;stroke-width:0.705556;stroke-dasharray:none"
+       id="rect1875"
+       width="15.250942"
+       height="6.2009244"
+       x="91.418762"
+       y="120.26926" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;opacity:0.95;fill:none;stroke:#000000;stroke-width:0.176389;stroke-dasharray:none"
+       x="92.559105"
+       y="124.02357"
+       id="text2127"><tspan
+         sodipodi:role="line"
+         id="tspan2125"
+         style="fill:#000000;stroke-width:0.176389"
+         x="92.559105"
+         y="124.02357">joystick</tspan></text>
+    <rect
+       style="opacity:0.95;fill:#eaeaea;fill-opacity:1;stroke:#000000;stroke-width:0.705556;stroke-dasharray:none"
+       id="rect2153"
+       width="46.583145"
+       height="7.5130634"
+       x="75.752167"
+       y="107.07407" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;opacity:0.95;fill:#000000;stroke:#000000;stroke-width:0.176389;stroke-dasharray:none"
+       x="82.446304"
+       y="111.70652"
+       id="text2131"><tspan
+         sodipodi:role="line"
+         id="tspan2129"
+         style="stroke-width:0.176389"
+         x="82.446304"
+         y="111.70652">gamepad-subsystem</tspan></text>
+    <rect
+       style="opacity:0.95;fill:#eaeaea;fill-opacity:1;stroke:#000000;stroke-width:0.705556;stroke-dasharray:none"
+       id="rect2153-3"
+       width="35.775631"
+       height="7.5262036"
+       x="104.18982"
+       y="91.995125" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;opacity:0.95;fill:#000000;stroke:#000000;stroke-width:0.176389;stroke-dasharray:none"
+       x="106.24604"
+       y="96.63414"
+       id="text2131-6"><tspan
+         sodipodi:role="line"
+         id="tspan2129-7"
+         style="stroke-width:0.176389"
+         x="106.24604"
+         y="96.63414">operator-subsystem</tspan></text>
+    <rect
+       style="opacity:0.95;fill:#eaeaea;fill-opacity:1;stroke:#000000;stroke-width:0.705556;stroke-dasharray:none"
+       id="rect2151"
+       width="29.850449"
+       height="7.4937768"
+       x="68.343887"
+       y="92.011337"
+       inkscape:connector-avoid="true" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;opacity:0.95;fill:#000000;stroke:#000000;stroke-width:0.176389;stroke-dasharray:none"
+       x="70.623375"
+       y="96.63414"
+       id="text2135"><tspan
+         sodipodi:role="line"
+         id="tspan2133"
+         style="stroke-width:0.176389"
+         x="70.623375"
+         y="96.63414">pilot-subsystem</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 99.044111,120.26926 -2.24e-4,-5.68212"
+       id="path2155"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-end="#rect2153"
+       inkscape:connection-start="#rect1875" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 95.112184,107.07407 -7.92161,-7.568956"
+       id="path2157"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-end="#rect2151"
+       inkscape:connection-start="#rect2153" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 99.04374,110.8306 v 0"
+       id="path420"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-end="#text2131"
+       inkscape:connection-start="#text2131" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,1.4389236,-1.7360947)"
+       id="text751"
+       style="font-size:12px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';white-space:pre;shape-inside:url(#rect753);display:inline;opacity:0.95;fill:none;stroke:#000000;stroke-width:0.666667" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,1.4389236,-1.7360947)"
+       id="text757"
+       style="font-size:12px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';white-space:pre;shape-inside:url(#rect759);display:inline;opacity:0.95;fill:none;stroke:#000000;stroke-width:0.666667" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 120.25105,99.521328 -0.3774,0.777532 -13.40016,6.77521"
+       id="path79005"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#rect2153-3"
+       inkscape:connection-end="#rect2153" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';opacity:0.95;fill:#010101;stroke:#000000;stroke-width:0.151286"
+       x="14.487318"
+       y="140.39557"
+       id="text88533"
+       inkscape:export-filename="joysticks.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan88531"
+         style="stroke-width:0.151286"
+         x="14.487318"
+         y="140.39557" /></text>
+  </g>
+  <metadata
+     id="metadata8919">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <cc:license
+           rdf:resource="http://artlibre.org/licence/lal" />
+        <dc:date>2023-11-02</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Kirk Carlson</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://artlibre.org/licence/lal">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>

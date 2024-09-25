@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:export-filename="simple-circuit.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="simple-switched-circuit.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.86304563"
+     inkscape:cx="342.97144"
+     inkscape:cy="387.00155"
+     inkscape:window-width="1920"
+     inkscape:window-height="939"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="opacity:0.95;fill:#000000;stroke:#000000;stroke-width:0.70555556;stroke-dasharray:none"
+       d="m 54.089072,37.859834 h 8.634314"
+       id="path236"
+       inkscape:export-filename="simple-circuit.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="opacity:0.95;fill:#000000;stroke:#000000;stroke-width:0.70555556;stroke-dasharray:none"
+       d="M 48.648553,42.789586 H 68.163905"
+       id="path238" />
+    <path
+       style="opacity:0.95;fill:#000000;stroke:#000000;stroke-width:0.70555556;stroke-dasharray:none"
+       d="m 54.089069,47.719338 h 8.63432"
+       id="path236-3" />
+    <path
+       style="opacity:0.95;fill:#000000;stroke:#000000;stroke-width:0.70555556;stroke-dasharray:none"
+       d="M 48.648548,52.649091 H 68.16391"
+       id="path238-6" />
+    <path
+       style="opacity:0.95;fill:#000000;stroke:#000000;stroke-width:0.70555556;stroke-dasharray:none"
+       d="m 54.089069,57.578843 h 8.63432"
+       id="path236-7" />
+    <path
+       style="opacity:0.95;fill:#000000;stroke:#000000;stroke-width:0.70555556;stroke-dasharray:none"
+       d="m 48.648549,62.508595 h 19.51536"
+       id="path238-5" />
+    <g
+       id="g583"
+       transform="matrix(0,0.45392132,-0.49702706,0,181.76736,14.434166)"
+       style="stroke-width:1.48543;stroke-dasharray:none">
+      <path
+         style="opacity:0.95;fill:#000000;stroke:#000000;stroke-width:1.48543;stroke-dasharray:none"
+         d="m 45.999337,124.12973 3.682801,6.36706"
+         id="path348" />
+      <path
+         style="opacity:0.95;fill:#000000;stroke:#000000;stroke-width:1.48543;stroke-dasharray:none"
+         d="m 114.07111,118.02659 3.68283,6.36706"
+         id="path348-7" />
+      <path
+         style="opacity:0.95;fill:#000000;stroke:#000000;stroke-width:1.48543;stroke-dasharray:none"
+         d="M 64.055087,130.30163 56.903754,117.91516"
+         id="path368" />
+      <path
+         style="opacity:0.95;fill:#000000;stroke:#000000;stroke-width:1.48543;stroke-dasharray:none"
+         d="m 64.090271,130.09102 7.151333,-12.3865"
+         id="path368-3" />
+      <path
+         style="opacity:0.95;fill:#000000;stroke:#000000;stroke-width:1.48543;stroke-dasharray:none"
+         d="m 49.664757,130.29545 7.151333,-12.3865"
+         id="path368-3-0" />
+      <path
+         style="opacity:0.95;fill:#000000;stroke:#000000;stroke-width:1.48543;stroke-dasharray:none"
+         d="M 78.411362,130.61029 71.260029,118.22382"
+         id="path368-5" />
+      <path
+         style="opacity:0.95;fill:#000000;stroke:#000000;stroke-width:1.48543;stroke-dasharray:none"
+         d="m 78.446546,130.39968 7.151333,-12.3865"
+         id="path368-3-6" />
+      <path
+         style="opacity:0.95;fill:#000000;stroke:#000000;stroke-width:1.48543;stroke-dasharray:none"
+         d="M 92.698871,130.61029 85.547538,118.22382"
+         id="path368-2" />
+      <path
+         style="opacity:0.95;fill:#000000;stroke:#000000;stroke-width:1.48543;stroke-dasharray:none"
+         d="m 92.734055,130.39968 7.151328,-12.3865"
+         id="path368-3-9" />
+      <path
+         style="opacity:0.95;fill:#000000;stroke:#000000;stroke-width:1.48543;stroke-dasharray:none"
+         d="M 106.98642,130.61029 99.835046,118.22382"
+         id="path368-1" />
+      <path
+         style="opacity:0.95;fill:#000000;stroke:#000000;stroke-width:1.48543;stroke-dasharray:none"
+         d="m 107.0216,130.39968 7.15137,-12.3865"
+         id="path368-3-2" />
+    </g>
+    <path
+       style="opacity:0.95;fill:none;stroke:#000000;stroke-width:0.970877;stroke-dasharray:none"
+       d="M 58.382136,62.434069 V 73.206638 H 120.61053 V 67.555316 H 120.202"
+       id="path1141" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';opacity:0.95;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.151286"
+       x="32.51421"
+       y="50.715042"
+       id="text1201"><tspan
+         sodipodi:role="line"
+         id="tspan1199"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.151286"
+         x="32.51421"
+         y="50.715042">Battery</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';opacity:0.95;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.151286"
+       x="126.34243"
+       y="52.866566"
+       id="text1619"><tspan
+         sodipodi:role="line"
+         id="tspan1617"
+         style="stroke-width:0.151286"
+         x="126.34243"
+         y="52.866566">Resistor</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';opacity:0.95;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.151286"
+       x="84.271767"
+       y="32.609417"
+       id="text1623"><tspan
+         sodipodi:role="line"
+         id="tspan1621"
+         style="stroke-width:0.151286"
+         x="84.271767"
+         y="32.609417">Switch</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';opacity:0.95;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.151286"
+       x="66.528152"
+       y="78.798485"
+       id="text1627"><tspan
+         sodipodi:role="line"
+         id="tspan1625"
+         style="stroke-width:0.151286"
+         x="66.528152"
+         y="78.798485">Conductor</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';opacity:0.95;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.151286"
+       x="60.117535"
+       y="66.108749"
+       id="text1631"><tspan
+         sodipodi:role="line"
+         id="tspan1629"
+         style="stroke-width:0.151286"
+         x="60.117535"
+         y="66.108749">+</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';opacity:0.95;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.151286"
+       x="61.254608"
+       y="36.027405"
+       id="text1635"><tspan
+         sodipodi:role="line"
+         id="tspan1633"
+         style="stroke-width:0.151286"
+         x="61.254608"
+         y="36.027405">-</tspan></text>
+    <circle
+       style="opacity:0.95;fill:#010101;stroke:#000000;stroke-width:0.705556;stroke-dasharray:none"
+       id="path78275"
+       cx="77.630226"
+       cy="27.56736"
+       r="1.1634395" />
+    <circle
+       style="opacity:0.95;fill:#010101;stroke:#000000;stroke-width:0.705556;stroke-dasharray:none"
+       id="path78275-3"
+       cx="99.509811"
+       cy="27.620558"
+       r="1.1634395" />
+    <path
+       style="opacity:0.95;fill:#010101;stroke:#000000;stroke-width:0.705556;stroke-dasharray:none"
+       d="M 77.472603,27.833732 98.6186,22.16768 l 0.02984,0.111356"
+       id="path78364" />
+    <path
+       style="opacity:0.95;fill:none;stroke:#000000;stroke-width:0.705556;stroke-dasharray:none"
+       d="m 99.62132,27.319475 h 20.0364 v 8.401653"
+       id="path78366" />
+    <path
+       style="opacity:0.95;fill:none;stroke:#000000;stroke-width:0.705556;stroke-dasharray:none"
+       d="M 58.910918,38.019799 V 27.587601 h 19.138373"
+       id="path78422"
+       inkscape:export-filename="../../../../simple-switched-circuit.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+</svg>

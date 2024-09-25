@@ -1,0 +1,325 @@
+Figure	title	source.png	source.svg
+1	A simple circuit
+	simple-circuit.png
+	simple-circuit.svg
+2	Resistors hooked up in parallel
+	parallel-circuit.png
+	parallel-circuit.svg
+3	Resistors hooked up in series
+	series-circuit.svg
+4	Circuit with an ammeter and a volt meter
+	simple-circuit-with-meters.png
+	simple-circuit-with-meters.svg
+5	AC voltage over time (Dashed line represents the root-mean-square value read by volt meters.
+	sine-wave.png
+	sine-wave.svg
+6	Switched circuit with the switch open and no current flow.
+	simple-switched-circuit.png
+	simple-switched-circuit.svg
+7	Switched circuit with the switch closed and current flow through load resistor
+	simple-switched-circuit-closed.png
+	simple-switched-circuit-closed.svg
+8	Simple switched circuit with a momentary (push-button) switch
+	simple-switched-circuit-momentary.png
+	simple-switched-circuit-momentary.svg
+9	Electrical relay
+	relay.png
+	solenoid-and-relay.svg
+10	Solenoid
+	solenoid-and-relay.svg
+	solenoid.png
+11	Simple circuit with a circuit breaker
+	simple-switched-circuit-breaker.png
+	simple-switched-circuit-breaker.svg
+12	Power distribution in a robot
+	power-distribution.png
+	power-distribution.svg
+13	Duty cycle of a voltage waveform for use as Pulse Width Modulation
+	duty-cycle.png
+	duty-cycle.svg
+14	WS2812 LED cell interconnection
+	ws2812-led-cell.png
+	ws2812-led-connection.svg
+15	WS2812 cell block diagram
+	ws2812-cell.png
+	ws2812-led-connection.svg
+16	WS2812 LED zero symbol timing
+	ws2812-led-zero-symbol-timing.png
+	ws2812-led-string-timing.svg
+17	WS2812 LED One symbol timing
+	ws2812-led-one-symbol-timing.png
+	ws2812-led-string-timing.svg
+18	WS2812 reset symbol sent between string sequences
+	ws2812-reset-symbol-timing.png
+	ws2812-led-string-timing.svg
+19	WS2812 LED cell bit order
+	ws2812-cell-timing.png
+	ws2812-led-string-timing.svg
+20	Timing for a string of WS2812 LEDs
+	ws2812-led-string-timing.png
+	ws2812-led-string-timing.svg
+21	Basic brushed DC motor
+	brushed-motor-details.png
+	brushed-motor.svg
+22	Time sequence of a brushed DC motor movement
+	brushed-motor-1.png
+	brushed-motor-2.png
+	brushed-motor-3.png
+	brushed-motor-4.png
+	brushed-motor.svg
+23	Open-Loop Controller
+	open-closed-looped-controller.svg
+	open-loop-controller.png
+24	Closed-Loop Controller
+	closed-loop-controller.png
+	open-closed-looped-controller.svg
+25	Trapezoidal envelope of motor velocity
+	trapezoidal-control-envelope.png
+	trapezoidal-control-envelope.svg
+26	Axes of an Inertial Measurement Unit
+	imu-axes.png
+	imu-axes.svg
+27	Gray Code (physical, binary, x/16 rotations, degrees)
+	gray-code.png
+	gray-code.svg
+28	The ground symbol
+	ground-symbol.png
+	ground-symbol.svg
+29	A digital multimeter
+	digital-multimeter.jpg
+	from Wikipedia
+30	Theoretical black box
+	black-box.png
+	black-box.svg
+31	Angular measurement of a relative heading.
+	angle-measurement-relative.png
+	angle-measurements.svg
+32	Angular measurement of a mathematic heading.
+	angle-measurements-mathematic.png
+	angle-measurements.svg
+33	Angular measurement of a magnetic heading.
+	angle-measurements-magnetic.png
+	angle-measurements.svg
+34	Difference of 50 and 30
+	relative-angle-50-30.png
+	relative-angles.svg
+35	Difference of 30 and 50
+	relative-angle-30-50.png
+	relative-angles.svg
+36	Difference of 10 and -10
+	relative-angle-10-minus-10.png
+	relative-angles.svg
+37	Difference of -10 and 10
+	relative-angle-minus-10-10.png
+	relative-angles.svg
+38	Difference of 170 and-170
+	relative-angle-170-minus-170.png
+	relative-angles.svg
+39	Difference of -170 and 170
+	relative-angle-minus-170-170.png
+	relative-angles.svg
+40	Cartesian coordinate system
+	cartesian-coordinates.png
+	cartesian-coordinates.svg
+41	Polar coordinate system
+	polar-coordinates.png
+	polar-and-spherical-coordinates.svg
+42	Spherical coordinate system
+	spherical-coordinates.png
+	spherical-coordinates.svg
+43	Vehicle orientation reference system
+	roll-pitch-yaw.png
+	roll-pitch-yaw.svg
+44	Robot frames of reference
+	robot-frames-of-reference.png
+	robot-frames-of-reference.svg
+45	Field layout for the 2024 Crescendo game.
+	2024-field-layout-diagram.png
+	from FRC 2024 game handbook
+46	Proof of Pythagorean Theorem
+	pythagorean-proof.png
+	pythagorean-proof.svg
+47	Intuitive Trig Proof
+	trig-proof.png
+	trig-proof.svg
+48	Cartesian coordinates and quadrants
+	cartesian-coordinates-quadrants.png
+	cartesian-coordinates-quadrants.svg
+49	Basic vector
+	basic-vector.png
+	basic-vector.svg
+50	Unit vectors in three dimensions
+	unit-xyz-vectors.png
+	unit-xyz-vectors.svg
+51	Example of a real-life vector addition
+	swimming-vector.png
+	swimming-vector.svg
+52	The vector sum of the vectors a and b
+	vector-sum.png
+	vector-sum.svg
+53	Vector a and its inverse vector -a
+	inverted-vector.png
+	inverted-vector.svg
+54	Class diagram for pose translation and rotation
+	mermaid/class03d.png
+	mermaid/class03d
+55	Graphic representation of a complex number
+	complex-number-plane.png
+	complex-number-plane.svg
+56	Complex number addition
+	complex-number-addition.png
+	complex-number-plane.svg
+57	A unit complex number
+	unit-complex-number.png
+	complex-number-plane.svg
+58	(1 + 4i) rotated 30°
+	complex-1-plus-4i-rotated-30-degrees.png
+	complex-number-plane.svg
+59	(4 + I) rotated 30°
+	complex-4-plus-i-rotated-30-degrees.png
+	complex-number-plane.svg
+60	Quaternian multiplication
+	quaternian-multiplication-cycle.png
+	quaternian-multiplication-cycle.svg
+61	Robot differential drive kinematics
+	differential-drive-kinematics.png
+	differential-drive-kinematics.svg
+62	West coast drive kinematics
+	west-coast-drive-kinematics.png
+	west-coast-drive-kinematics.svg
+63	Graph of motor velocities vs. desired robot direction
+	mecanum-kinematic-graph.png
+	mecanum-kinematic-graph.svg
+64	Vectors for kinematics for one swerve drive wheel
+	kinematics-swerve-module.png
+	kinematics-swerve-module.svg
+65	Kinematic vectors for all four swerve drive modules
+	kinematics-swerve-4-wheel.png
+	kinematics-swerve-4-wheel.svg
+66	Camera image frame of reference
+	camera-frame-of-reference.png
+	camera-frame-of-reference.svg
+67	Vectors for locating a robot with a April Tag
+	tag-camera-robot-horizontal-plane.png
+	tag-camera-robot-horizontal-plane.svg
+68	Pitch camera to tag
+	robot-camera-tag-pitch.png
+	robot-camera-tag-pitch.svg
+69	Camera tag vertical plane
+	camera-tag-vertical-plane.png
+	camera-tag-vertical-plane.svg
+70	Basic robot network connections
+	basic-robot-network-connections.png
+	basic-robot-network-connections.svg
+71	Network Address Translation (NAT)
+	network-address-translation.png
+	network-address-translation.svg
+72	Basic robot electrical architecture
+	basic-electrical-architecture.png
+	basic-electrical-architecture.svg
+73	Tank drive basics
+	tank-drive-basics.png
+	tank-drive-basics.svg
+74	West Coast drive basics
+	west-coast-drive-basics.png
+	west-coast-drive-basics.svg
+75	Mecanum drive basic movements
+	mecanum-drive-basics.png
+	mecanum-drive-basics.svg
+76	Uranus omni directional robot
+	UranusOmniDirectionalRobotPodnar.png
+	From internet
+77	Swerve drive basics
+	swerve-drive-basics.png
+	swerve-drive-basics.svg
+78	Swerve drive angles
+	swerve-drive-angles.png
+	swerve-drive-angles.svg
+79	Swerve Drive Specialties MK4 swerve drive module
+	MK4Image3_2048x2048.jpg
+	From internet
+80	MK4 swerve drive module emphasizing the drive mechanism.
+	MK4Image3_2048x2048-drive-components.png
+	MK4Image3_2048x2048-drive-components.xcf
+81	MK4 swerve drive module emphasizing the steering mechanism and inner shaft to shaft encoder.
+	MK4Image3_2048x2048-sterring-components.png
+	MK4Image3_2048x2048-sterring-components.xcf
+82	MK4i swerve drive modules with the motors inverted from the Mark 4 modules.
+	MK4iPhoto8_2048x2048.jpg
+	From internet
+83	Basic overall control architecture
+	overall-robot-control-architecture.png
+	overall-robot-control-architecture.svg
+84	Control Architecture within a robot
+	robot-control-architecture.png
+	robot-control-architecture.svg
+85	General CAN bus topology
+	can-bus-connections.png
+	can-bus-connections.svg
+86	Basic CAN bus frame
+	CAN-bus-frame-with-stuff-bit-and-correct-CRC.png
+	can-bus-2-frame.png
+	can-bus-2-frame.svg
+87	Example of CAN id coding carried in the data payload (from WPILib docs)
+	can-id-example.webp
+	from WPILib documentation
+88	Command state transitions
+	scheduler-states.png
+	scheduler-states.svg
+89	Overall subsystem software architecture
+	software-architecture.png
+	software-architecture.svg
+90	Drive train subsystem.
+	drive-train-subsystems.png
+	drive-train-subsystems.svg
+91	Rotating a swerve drive robot
+	swerve-drive-rotation.png
+	swerve-drive-rotation.svg
+92	Movement of a swerve drive robot while spinning
+	swerve-spin-on-straight-path.png
+	swerve-spin-on-straight-path.svg
+93	Motion of a spinning swerve drive robot with maintained edge
+	swerve-spin-with-contact-path.png
+	swerve-spin-with-contact-path.svg
+94	Locked Wheels in a Swerve Drive
+	lock-swerve-drive-wheels.png
+	lock-swerve-drive-wheels.svg
+95	Joystick Controllers
+	joysticks.png
+	joysticks.svg
+96	Git source code management
+	git-source-code-management.png
+	git-source-code-management.svg
+97	Stack, queue, deque
+	stack-queue-deque.png
+	stack-queue-deque.svg
+98	Parts of a method declaration
+	method-declaration.png
+	method-declaration.svg
+99	JSON Object and Name-Value-Pair Railroad Track Diagram
+	json-object.png
+	From internet
+100	JSON White Space Railroad Track Diagram
+	json-whitespace.png
+	From internet
+101	JSON Value Railroad Track Diagram
+	json-value.png
+	From internet
+102	JSON String Railroad Track Diagram
+	json-string.png
+	From internet
+103	JSON Array Railroad Track Diagram
+	json-array.png
+	From internet
+104	JSON Number Railroad Track Diagram
+	json-number.png
+	From internet
+105	Gantt chart for a simple build season
+	mermaid/gantt-chart.png
+	mermaid/gantt-chart
+106	Image frame of reference with tag showing distortion due to tag-to-camera pitch
+	camera-frame-of-reference-with-tag-to-camera-pitch.png
+	camera-frame-of-reference-with-tag-to-camera-pitch.svg
+107	Image frame of reference with tag showing distortion due to tag-to-camera yaw
+	camera-frame-of-reference-with-tag-to-camera-yaw.png
+	camera-frame-of-reference-with-tag-to-camera-yaw.svg

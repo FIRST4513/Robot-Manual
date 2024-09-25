@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="overall-system-control-architecture.svg"
+   inkscape:export-filename="robot-system-overview.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.98"
+     inkscape:cx="242.85714"
+     inkscape:cy="386.73469"
+     inkscape:window-width="1920"
+     inkscape:window-height="939"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:0.95;fill:#e3e3e3;stroke:#000000;stroke-width:0.352778;stroke-dasharray:none;fill-opacity:1"
+       id="rect234-5"
+       width="36.982548"
+       height="9.3227406"
+       x="35.185444"
+       y="70.477333" />
+    <rect
+       style="opacity:0.95;fill:#e3e3e3;stroke:#000000;stroke-width:0.352778;stroke-dasharray:none;fill-opacity:1"
+       id="rect234-35"
+       width="36.942707"
+       height="9.6012182"
+       x="35.392014"
+       y="57.715351" />
+    <rect
+       style="opacity:0.95;fill:#e3e3e3;stroke:#000000;stroke-width:0.232367;stroke-dasharray:none;fill-opacity:1"
+       id="rect234"
+       width="29.150623"
+       height="23.785782"
+       x="78.258392"
+       y="57.25111" />
+    <rect
+       style="opacity:0.95;fill:#e3e3e3;fill-opacity:1;stroke:#000000;stroke-width:0.200847;stroke-dasharray:none"
+       id="rect234-6"
+       width="29.173038"
+       height="17.756964"
+       x="79.182594"
+       y="115.88177" />
+    <rect
+       style="opacity:0.95;fill:#e3e3e3;fill-opacity:1;stroke:#000000;stroke-width:0.246469;stroke-dasharray:none"
+       id="rect234-7"
+       width="29.15526"
+       height="15.672035"
+       x="78.79007"
+       y="89.559204" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';opacity:0.95;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.176389;stroke-opacity:1"
+       x="82.716904"
+       y="61.978001"
+       id="text451"><tspan
+         sodipodi:role="line"
+         id="tspan449"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.176389;stroke-opacity:1"
+         x="82.716904"
+         y="61.978001">Drive Station</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';opacity:0.95;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.176389;stroke-opacity:1"
+       x="38.948547"
+       y="63.479401"
+       id="text505"><tspan
+         sodipodi:role="line"
+         id="tspan503"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.176389;stroke-opacity:1"
+         x="38.948547"
+         y="63.479401">Driver or Pilot</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';opacity:0.95;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.176389;stroke-opacity:1"
+       x="37.978363"
+       y="76.19957"
+       id="text509"><tspan
+         sodipodi:role="line"
+         id="tspan507"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.176389;stroke-opacity:1"
+         x="37.978363"
+         y="76.19957">Operator or Co-Pilot</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';opacity:0.95;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.176389;stroke-opacity:1"
+       x="82.915817"
+       y="94.389145"
+       id="text513"><tspan
+         sodipodi:role="line"
+         id="tspan511"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.176389;stroke-opacity:1"
+         x="82.915817"
+         y="94.389145">Field</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.176389;stroke-opacity:1"
+         x="82.915817"
+         y="98.357895"
+         id="tspan517">Management</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.176389;stroke-opacity:1"
+         x="82.915817"
+         y="102.32664"
+         id="tspan515">System</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';opacity:0.95;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.176389;stroke-opacity:1"
+       x="88.453323"
+       y="119.74442"
+       id="text521"><tspan
+         sodipodi:role="line"
+         id="tspan519"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.176389;stroke-opacity:1"
+         x="88.453323"
+         y="119.74442">Robot</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';opacity:0.95;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.176389;stroke-opacity:1"
+       x="81.100693"
+       y="126.35188"
+       id="text525"><tspan
+         sodipodi:role="line"
+         id="tspan523"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.176389;stroke-opacity:1"
+         x="81.100693"
+         y="126.35188">Software</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';opacity:0.95;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.176389;stroke-opacity:1"
+       x="80.879623"
+       y="131.23347"
+       id="text529"><tspan
+         sodipodi:role="line"
+         id="tspan527"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.176389;stroke-opacity:1"
+         x="80.879623"
+         y="131.23347">Hardware</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';opacity:0.95;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.176;stroke-dasharray:none;stroke-opacity:1"
+       x="80.400841"
+       y="68.614944"
+       id="text533"><tspan
+         sodipodi:role="line"
+         id="tspan531"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.176;stroke-dasharray:none;stroke-opacity:1"
+         x="80.400841"
+         y="68.614944">Joysticks</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';opacity:0.95;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.176;stroke-dasharray:none;stroke-opacity:1"
+       x="79.924904"
+       y="73.569572"
+       id="text537"><tspan
+         sodipodi:role="line"
+         id="tspan535"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.176;stroke-dasharray:none;stroke-opacity:1"
+         x="79.924904"
+         y="73.569572">Keyboard</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';opacity:0.95;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.176;stroke-dasharray:none;stroke-opacity:1"
+       x="80.454071"
+       y="78.128693"
+       id="text541"><tspan
+         sodipodi:role="line"
+         id="tspan539"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.176;stroke-dasharray:none;stroke-opacity:1"
+         x="80.454071"
+         y="78.128693">Display</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 72.334721,65.657552 5.923671,1.007493"
+       id="path1004"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#rect234-35"
+       inkscape:connection-end="#rect234" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 72.167992,72.307799 6.0904,-0.932404"
+       id="path1006"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#rect234-5"
+       inkscape:connection-end="#rect234" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 93.0585,81.036892 0.161086,8.522312"
+       id="path1010"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#rect234"
+       inkscape:connection-end="#rect234-7" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 93.517378,105.3879 0.136363,10.49387"
+       id="path1012"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-end="#rect234-6"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;text-anchor:middle;opacity:0.95;fill:none;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stroke-dashoffset:0"
+       x="99.754143"
+       y="110.48426"
+       id="text82569"><tspan
+         sodipodi:role="line"
+         id="tspan82567"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.1;stroke-dasharray:none;stroke-dashoffset:0"
+         x="99.754143"
+         y="110.48426">Wi-Fi</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;text-anchor:middle;opacity:0.95;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stroke-dashoffset:0"
+       x="102.24986"
+       y="86.387726"
+       id="text82936"><tspan
+         sodipodi:role="line"
+         id="tspan82934"
+         style="stroke-width:0.1"
+         x="102.24986"
+         y="86.387726">Ethernet</tspan></text>
+  </g>
+</svg>

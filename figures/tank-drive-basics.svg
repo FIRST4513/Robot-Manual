@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg105578"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="tank-drive-basics.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview105580"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.2861282"
+     inkscape:cx="232.09195"
+     inkscape:cy="308.6784"
+     inkscape:window-width="1920"
+     inkscape:window-height="939"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs105575">
+    <marker
+       style="overflow:visible"
+       id="marker110218"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow2"
+       markerWidth="7.6999998"
+       markerHeight="5.5999999"
+       viewBox="0 0 7.7 5.6"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path110216" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow2"
+       markerWidth="7.6999998"
+       markerHeight="5.5999999"
+       viewBox="0 0 7.7 5.6"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="arrow2L" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:0.95;fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:0.52916667;stroke-dasharray:none"
+       id="rect105699"
+       width="45.801991"
+       height="7.1629601"
+       x="28.257607"
+       y="57.033165"
+       inkscape:export-filename="tank-drive-basics.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       style="opacity:0.95;fill:#e6e6e6;stroke:#000000;stroke-width:0.52916667;stroke-dasharray:none;fill-opacity:1"
+       id="path105753"
+       cx="34.571609"
+       cy="65.408287"
+       r="3.8715878"
+       inkscape:transform-center-x="-18.103404"
+       inkscape:transform-center-y="5.4255603" />
+    <circle
+       style="opacity:0.95;fill:#e6e6e6;stroke:#000000;stroke-width:0.52916667;stroke-dasharray:none;fill-opacity:1"
+       id="path105753-6"
+       cx="51.404697"
+       cy="65.40432"
+       r="3.8715878"
+       inkscape:transform-center-x="-18.103404"
+       inkscape:transform-center-y="5.4255603" />
+    <circle
+       style="opacity:0.95;fill:#e6e6e6;stroke:#000000;stroke-width:0.52916667;stroke-dasharray:none;fill-opacity:1"
+       id="path105753-0"
+       cx="67.58551"
+       cy="65.296104"
+       r="3.8715878"
+       inkscape:transform-center-x="-18.103404"
+       inkscape:transform-center-y="5.4255603" />
+    <circle
+       style="opacity:0.95;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.352777"
+       id="path106321"
+       cx="51.39254"
+       cy="59.41658"
+       r="1.402473" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';opacity:0.95;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.352777"
+       x="38.204132"
+       y="50.869598"
+       id="text106820"><tspan
+         sodipodi:role="line"
+         id="tspan106818"
+         style="stroke-width:0.352778"
+         x="38.204132"
+         y="50.869598">Center of Travity</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.352778"
+         x="38.204132"
+         y="54.838348"
+         id="tspan108734">(exaggerated)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';opacity:0.95;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.352777"
+       x="42.426254"
+       y="75.526588"
+       id="text106824"><tspan
+         sodipodi:role="line"
+         id="tspan106822"
+         style="stroke-width:0.352778"
+         x="42.426254"
+         y="75.526588">Side View</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';opacity:0.95;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.352777"
+       x="45.06662"
+       y="134.53673"
+       id="text106824-2"><tspan
+         sodipodi:role="line"
+         id="tspan106822-9"
+         style="stroke-width:0.352778"
+         x="45.06662"
+         y="134.53673">Top View</tspan></text>
+    <rect
+       style="opacity:0.95;fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:0.52916667;stroke-dasharray:none"
+       id="rect107552"
+       width="47.094711"
+       height="35.163261"
+       x="28.246616"
+       y="88.81395" />
+    <rect
+       style="opacity:0.95;fill:#666666;fill-opacity:1;stroke:#000000;stroke-width:0.254879"
+       id="rect107614"
+       width="7.8985257"
+       height="1.5438644"
+       x="30.60413"
+       y="90.931801" />
+    <rect
+       style="opacity:0.95;fill:#666666;fill-opacity:1;stroke:#000000;stroke-width:0.254879"
+       id="rect107614-2"
+       width="7.8985257"
+       height="1.5438644"
+       x="47.718784"
+       y="90.949814" />
+    <rect
+       style="opacity:0.95;fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:0.254879"
+       id="rect107614-2-0"
+       width="7.8985257"
+       height="1.5438644"
+       x="63.593796"
+       y="90.949814" />
+    <rect
+       style="opacity:0.95;fill:#666666;fill-opacity:1;stroke:#000000;stroke-width:0.254879"
+       id="rect107614-23"
+       width="7.8985257"
+       height="1.5438644"
+       x="30.329651"
+       y="120.16032" />
+    <rect
+       style="opacity:0.95;fill:#666666;fill-opacity:1;stroke:#000000;stroke-width:0.254879"
+       id="rect107614-2-7"
+       width="7.8985257"
+       height="1.5438644"
+       x="47.444305"
+       y="120.17832" />
+    <rect
+       style="opacity:0.95;fill:#666666;fill-opacity:1;stroke:#000000;stroke-width:0.254879"
+       id="rect107614-2-0-5"
+       width="7.8985257"
+       height="1.5438644"
+       x="63.319313"
+       y="120.17832" />
+    <path
+       style="opacity:0.95;fill:#666666;fill-opacity:1;stroke:#000000;stroke-width:0.35277778;marker-start:url(#marker110218);marker-end:url(#Arrow2);stroke-dasharray:none"
+       d="m 50.854413,85.0042 v 35.26462 l -0.182356,6.29792"
+       id="path107670" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';opacity:0.95;fill:#b3b3b3;fill-opacity:1;stroke:#000000;stroke-width:0.352777"
+       x="-118.32961"
+       y="49.557606"
+       id="text108670"
+       transform="rotate(-90)"
+       inkscape:export-filename="tank-drive-basics.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan108668"
+         style="stroke-width:0.352778"
+         x="-118.32961"
+         y="49.557606">Center of turns</tspan></text>
+  </g>
+</svg>

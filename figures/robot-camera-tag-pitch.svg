@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg101299"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="robot-camera-tag-pitch.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview101301"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="3.06"
+     inkscape:cx="330.22876"
+     inkscape:cy="360.78431"
+     inkscape:window-width="1920"
+     inkscape:window-height="939"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs101296">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient81456">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop81452" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop81454" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient81412">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop81408" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop81410" />
+    </linearGradient>
+    <marker
+       style="overflow:visible"
+       id="marker102445"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow2"
+       markerWidth="7.6999998"
+       markerHeight="5.5999999"
+       viewBox="0 0 7.7 5.6"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path102443" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker102399"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow2"
+       markerWidth="7.6999998"
+       markerHeight="5.5999999"
+       viewBox="0 0 7.7 5.6"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path102397" />
+    </marker>
+    <linearGradient
+       id="linearGradient102246"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop102244" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient101996">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop101992" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop101994" />
+    </linearGradient>
+    <rect
+       x="1211.8546"
+       y="778.95721"
+       width="1077.3107"
+       height="100.03719"
+       id="rect101829" />
+    <rect
+       x="443.53703"
+       y="502.09886"
+       width="1918.8853"
+       height="483.06895"
+       id="rect101817" />
+    <marker
+       style="overflow:visible"
+       id="Arrow2"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow2"
+       markerWidth="7.6999998"
+       markerHeight="5.5999999"
+       viewBox="0 0 7.7 5.6"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="arrow2L" />
+    </marker>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient101996"
+       id="linearGradient101998"
+       x1="-22.673538"
+       y1="118.46703"
+       x2="27.850956"
+       y2="118.46703"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient101996"
+       id="linearGradient102006"
+       x1="15.126066"
+       y1="122.94048"
+       x2="69.152672"
+       y2="122.94048"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient101996"
+       id="linearGradient102014"
+       x1="43.985241"
+       y1="119.99261"
+       x2="92.885029"
+       y2="119.99261"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient101996"
+       id="linearGradient102022"
+       x1="99.672915"
+       y1="115.18267"
+       x2="141.03983"
+       y2="115.18267"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient102246"
+       id="linearGradient102248"
+       x1="81.243578"
+       y1="92.303165"
+       x2="105.46735"
+       y2="92.303165"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient81412"
+       id="linearGradient81414"
+       x1="-22.555066"
+       y1="118.46703"
+       x2="27.732484"
+       y2="118.46703"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient81456"
+       id="linearGradient81458"
+       x1="87.175023"
+       y1="114.06202"
+       x2="128.30499"
+       y2="114.06202"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="opacity:0.95;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.246944;marker-end:url(#Arrow2)"
+       d="M 47.887188,114.07899 H 84.372896"
+       id="path101420" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';opacity:0.95;fill:url(#linearGradient81458);fill-opacity:1;stroke:#000000;stroke-width:0.01;stroke-dasharray:none;stroke-opacity:1"
+       x="86.970734"
+       y="115.24567"
+       id="text101813"><tspan
+         sodipodi:role="line"
+         id="tspan101811"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.01;stroke-dasharray:none;stroke-opacity:1"
+         x="86.970734"
+         y="115.24567">0 Robot Frame of reference</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text101815"
+       style="font-size:12px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';white-space:pre;shape-inside:url(#rect101817);display:inline;opacity:0.95;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.933333" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text101827"
+       style="font-size:12px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';white-space:pre;shape-inside:url(#rect101829);display:inline;opacity:0.95;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.933333" />
+    <path
+       style="opacity:0.95;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.246944;marker-end:url(#marker102445)"
+       d="M 48.423261,113.748 78.243146,94.661486"
+       id="path101845" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';opacity:0.95;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.01;stroke-dasharray:none;stroke-opacity:1"
+       x="10.330349"
+       y="125.99549"
+       id="text101849"
+       transform="rotate(-22.120261)"><tspan
+         sodipodi:role="line"
+         id="tspan101847"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.01;stroke-dasharray:none;stroke-opacity:1"
+         x="10.330349"
+         y="125.99549">Camera Pitch with respect to robot</tspan></text>
+    <path
+       style="opacity:0.95;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.247;stroke-dasharray:none;marker-end:url(#marker102399)"
+       d="M 48.651845,113.61947 71.497642,88.502478"
+       id="path101851" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';opacity:0.95;fill:url(#linearGradient81414);fill-opacity:1;stroke:#000000;stroke-width:0.01;stroke-dasharray:none;stroke-opacity:1"
+       x="-22.540764"
+       y="119.34295"
+       id="text101855"
+       transform="rotate(-40.419744)"><tspan
+         sodipodi:role="line"
+         id="tspan101853"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.01;stroke-dasharray:none;stroke-opacity:1"
+         x="-22.540764"
+         y="119.34295">Tag pitch with respect to camera</tspan></text>
+    <path
+       style="opacity:0.95;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.246944"
+       id="path101913-9"
+       sodipodi:type="arc"
+       sodipodi:cx="47.899761"
+       sodipodi:cy="114.18857"
+       sodipodi:rx="7.8144112"
+       sodipodi:ry="7.8144112"
+       sodipodi:start="5.6882043"
+       sodipodi:end="6.2531463"
+       sodipodi:arc-type="slice"
+       d="m 54.371337,109.80865 a 7.8144112,7.8144112 0 0 1 1.33931,4.14522 l -7.810886,0.2347 z" />
+    <path
+       style="opacity:0.95;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.246944"
+       id="path101913-9-1"
+       sodipodi:type="arc"
+       sodipodi:cx="47.975857"
+       sodipodi:cy="114.14644"
+       sodipodi:rx="10.572648"
+       sodipodi:ry="10.572648"
+       sodipodi:start="5.47113"
+       sodipodi:end="5.6899818"
+       sodipodi:arc-type="slice"
+       d="m 55.249927,106.47384 a 10.572648,10.572648 0 0 1 1.492284,1.76228 l -8.766354,5.91032 z"
+       inkscape:export-filename="tag-camera-robot-yaw.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';opacity:0.95;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.01;stroke-dasharray:none;stroke-opacity:1"
+       x="19.052216"
+       y="122.50364"
+       id="text102242"
+       transform="rotate(-31.339593)"><tspan
+         sodipodi:role="line"
+         id="tspan102240"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.01;stroke-dasharray:none"
+         x="19.052216"
+         y="122.50364">Camera Pitch</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';opacity:0.95;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.01;stroke-opacity:1;stroke-dasharray:none"
+       x="-10.485746"
+       y="114.27806"
+       id="text102242-2"
+       transform="rotate(-44.678034)"
+       inkscape:export-filename="tag-camera-robot-yaw.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan102240-7"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.01;stroke-dasharray:none"
+         x="-10.485746"
+         y="114.27806">Tag Center</tspan></text>
+  </g>
+</svg>
