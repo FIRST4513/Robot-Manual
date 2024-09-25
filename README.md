@@ -1,11 +1,13 @@
-# Robot-Manual
+# Robot Manual
 A manual for FRC robots. The intent of this manual is to provide a theoretical background for understanding some to the math and science used in FRC robots with a focus on software. This goes beyond just how to use the WPI APIs to build a working robot, but to give some understanding about what the APIs are doing and why.
 
-The manual reflects the practice of Team 4513.
+The manual reflects the practices of Team 4513.
 
 The document is in the LibreOffice Writer format. This format was chosen for its openness and its ability to handle the different elements used in this document.
 
 A .pdf version is included for downloading or printing. The past .pdf versions are available by looking at the history of the files/robot-manual.pdf file. Direct rendering in the browser does not work on all browsers (e.g., Chromium on Linux). Download seems to work everywhere.
+
+Figures are developed using Inkscape. The source is a scalable vector graphics (.svg) file that has been exported to the portable network graphics (.png) format for rendering by LibreOffice. The mermaid files are included and their conversion to a corresponding .png file.
 
 ---
 
