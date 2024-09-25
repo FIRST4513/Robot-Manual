@@ -3,17 +3,12 @@ gantt
     dateFormat  YYYY-MM-DD
     excludes Friday Sunday 2025-01-20 2025-02-14 2025-02-17 2025-03-13 2025-03-14 2025-03-21
 
-    section Base designgantt
-    title Team 4513 2025 Project Management
-    dateFormat  YYYY-MM-DD
-    excludes Friday Sunday 2025-01-20 2025-02-14 2025-02-17 2025-03-13 2025-03-14 2025-03-21
-
     section Base design
     Rules released   : bas1, 2025-01-04, 1d
     Decide what      : bas2, after bas1  , 1d
     Decide how       : bas3, after bas2  , 5d
-    
-…    commission robot        : soft5, after ele5 soft4, 1d
+
+    commission robot        : soft5, after ele5 soft4, 1d
     test new robot code     : soft6, after soft5, 2d
     test robot with driver  : soft7, after soft6, 5d
     new joystick commands   : soft8, after soft6, 5d
@@ -25,7 +20,7 @@ gantt
     Rules released   : bas1, 2025-01-04, 1d
     Decide what      : bas2, after bas1  , 1d
     Decide how       : bas3, after bas2  , 5d
-    
+
     section Mechanical
     mechanical CAD   : mech1, after bas3 , 5d
     robot CAD        : mech2, after mech1, 5d
@@ -35,7 +30,7 @@ gantt
     section Electrical
     place components  : ele4, after mech4, 2d
     wire robot        : ele5, after ele4, 5d
-    
+
     section Field
     build target       : field1, after bas1, 5d
     built load station : field2, after field1, 5d
