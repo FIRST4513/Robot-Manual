@@ -1,12 +1,18 @@
 # Robot-Manual
-A manual for developing software for FRC robots with the 4513 structure.
+A manual for FRC robots. The intent of this manual is to provide a theoretical background for understanding some to the math and science used in FRC robots with a focus on software. This goes beyond just how to use the WPI APIs to build a working robot, but to give some understanding about what the APIs are doing and why.
 
-This is in OpenOffice Writer format for now. This format was chosen for its openness and its ability to handle the different elements used in this document.
+The manual reflects the practice of Team 4513.
 
-A .pdf version is included for downloading or printing.
-The past .pdf versions are available by looking at the history of the files/robot-manual.pdf file. Direct rendering in the browser does not work on all browsers. Download seems to work everywhere.
-The current .pdf version can also be accessed through https://FIRST4513.github.io.
+The document is in the LibreOffice Writer format. This format was chosen for its openness and its ability to handle the different elements used in this document.
 
-This version is still a draft. It has not been thoroughly proof read and has a section of partially completed articles.
+A .pdf version is included for downloading or printing. The past .pdf versions are available by looking at the history of the files/robot-manual.pdf file. Direct rendering in the browser does not work on all browsers (e.g., Chromium on Linux). Download seems to work everywhere.
+
+---
+
+The current version is still a draft. It has not been thoroughly proof read and has a section of partially completed articles.  It can also be accessed through https://FIRST4513.github.io.
+
+---
 
 Comments, suggestions, typographical errors, technical errors, etc. may be posted as an issue.  A project tracks issues to be included in future releases.
+
+This is an open project offered on a creative commons share and share alike as long as attribution is given and uses are non-commercial. The hope is that this spreads technical expertise to all FRC teams and raises the level of competition.
