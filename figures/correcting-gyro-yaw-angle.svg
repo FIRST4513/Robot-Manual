@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg3277"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="correcting-gyro-yaw-angle.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview3279"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.4015044"
+     inkscape:cx="410.57597"
+     inkscape:cy="276.07695"
+     inkscape:window-width="1920"
+     inkscape:window-height="939"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs3274" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:0.95;fill:#dedede;stroke:#969696;stroke-width:0.176389;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+       id="rect3450"
+       width="25.518888"
+       height="25.518888"
+       x="71.107567"
+       y="-65.204414"
+       transform="rotate(74.85446)" />
+    <g
+       id="g1058"
+       transform="rotate(7.7607677,151.90603,-525.93899)"
+       style="stroke-width:0.17638889;stroke-dasharray:none;stroke:#afafaf;stroke-opacity:1;fill:#a3a3a3;fill-opacity:1">
+      <rect
+         style="opacity:0.95;fill:#a3a3a3;stroke:#afafaf;stroke-width:0.17638889;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+         id="rect846"
+         width="1.1228167"
+         height="3.9773836"
+         x="161.71184"
+         y="73.030617" />
+      <path
+         style="opacity:0.95;fill:#a3a3a3;stroke:#afafaf;stroke-width:0.17638889;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+         d="m 165.68757,71.323377 v 7.371319 l -2.81146,-3.685916 z"
+         id="path902"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <rect
+       style="opacity:0.95;fill:none;stroke:#000000;stroke-width:0.17638889;stroke-dasharray:none"
+       id="rect3452"
+       width="1.8211757"
+       height="11.821176"
+       x="135.95045"
+       y="50.3979" />
+    <rect
+       style="opacity:0.95;fill:none;stroke:#000000;stroke-width:0.17638889;stroke-dasharray:none"
+       id="rect3454"
+       width="1.8330959"
+       height="11.833095"
+       x="148.71976"
+       y="112.14732" />
+    <path
+       style="opacity:0.95;fill:none;stroke:#000000;stroke-width:0.176389;stroke-dasharray:none"
+       d="M 135.70115,56.028275 81.770496,71.031123 148.68078,119.03217"
+       id="path3456" />
+    <path
+       style="opacity:0.95;fill:none;stroke:#000000;stroke-width:0.176389;stroke-dasharray:none"
+       d="m 136.07355,55.904118 12.57503,63.111572"
+       id="path3456-9"
+       sodipodi:nodetypes="cc" />
+    <rect
+       style="opacity:0.95;fill:none;stroke:#000000;stroke-width:0.166426;stroke-dasharray:none"
+       id="rect3458"
+       width="66.956436"
+       height="62.891079"
+       x="81.78772"
+       y="55.992764" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';opacity:0.95;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.0352778;stroke-dasharray:none"
+       x="89.067574"
+       y="73.702652"
+       id="text3852"><tspan
+         sodipodi:role="line"
+         id="tspan3850"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.0352778;stroke-dasharray:none"
+         x="89.067574"
+         y="73.702652">A</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';opacity:0.95;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.0352777;stroke-dasharray:none"
+       x="131.20532"
+       y="61.560947"
+       id="text3856"><tspan
+         sodipodi:role="line"
+         id="tspan3854"
+         style="stroke-width:0.0352778"
+         x="131.20532"
+         y="61.560947">B</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';opacity:0.95;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.0352777;stroke-dasharray:none"
+       x="143.5387"
+       y="113.48946"
+       id="text3860"><tspan
+         sodipodi:role="line"
+         id="tspan3858"
+         style="stroke-width:0.0352778"
+         x="143.5387"
+         y="113.48946">C</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';opacity:0.95;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.0352777;stroke-dasharray:none"
+       x="145.40549"
+       y="97.330048"
+       id="text3864"><tspan
+         sodipodi:role="line"
+         id="tspan3862"
+         style="stroke-width:0.0352778"
+         x="145.40549"
+         y="97.330048">F</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';opacity:0.95;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.0352777;stroke-dasharray:none"
+       x="139.26752"
+       y="60.376671"
+       id="text3868"><tspan
+         sodipodi:role="line"
+         id="tspan3866"
+         style="stroke-width:0.0352778"
+         x="139.26752"
+         y="60.376671">F'</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';opacity:0.95;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.0352777;stroke-dasharray:none"
+       x="119.70242"
+       y="59.169182"
+       id="text3872"><tspan
+         sodipodi:role="line"
+         id="tspan3870"
+         style="stroke-width:0.0352778"
+         x="119.70242"
+         y="59.169182">G</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';opacity:0.95;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.0352777;stroke-dasharray:none"
+       x="97.521408"
+       y="54.234444"
+       id="text3876"><tspan
+         sodipodi:role="line"
+         id="tspan3874"
+         style="stroke-width:0.0352778"
+         x="97.521408"
+         y="54.234444">FieldTagToCamera<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan3878">x</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';opacity:0.95;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.0352777;stroke-dasharray:none"
+       x="-67.373123"
+       y="80.546989"
+       id="text3882"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan3880"
+         style="stroke-width:0.0352778"
+         x="-67.373123"
+         y="80.546989">FieldTagToCamera<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan3884">y</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';opacity:0.95;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.0352777;stroke-dasharray:none"
+       x="107.66039"
+       y="66.095459"
+       id="text3888"><tspan
+         sodipodi:role="line"
+         id="tspan3886"
+         style="stroke-width:0.0352778"
+         x="107.66039"
+         y="66.095459">c</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';opacity:0.95;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.0352777;stroke-dasharray:none"
+       x="138.97461"
+       y="81.396736"
+       id="text3892"><tspan
+         sodipodi:role="line"
+         id="tspan3890"
+         style="stroke-width:0.0352778"
+         x="138.97461"
+         y="81.396736">a</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';opacity:0.95;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.0352777;stroke-dasharray:none"
+       x="115.868"
+       y="94.906372"
+       id="text3896"><tspan
+         sodipodi:role="line"
+         id="tspan3894"
+         style="stroke-width:0.0352778"
+         x="115.868"
+         y="94.906372">b</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';opacity:0.95;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.0352777;stroke-dasharray:none"
+       x="137.00429"
+       y="49.256603"
+       id="text3900"><tspan
+         sodipodi:role="line"
+         id="tspan3898"
+         style="stroke-width:0.0352778"
+         x="137.00429"
+         y="49.256603">Tag 1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';white-space:pre;inline-size:8.03374;opacity:0.95;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.0352777;stroke-dasharray:none"
+       x="148.66638"
+       y="127.92684"
+       id="text3904"><tspan
+         x="148.66638"
+         y="127.92684"
+         id="tspan1994"><tspan
+           style="stroke-width:0.0352778"
+           id="tspan1992">Tag 2</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';opacity:0.95;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.0352777;stroke-dasharray:none"
+       x="43.20525"
+       y="68.552254"
+       id="text3908"
+       transform="rotate(-13.447207)"><tspan
+         sodipodi:role="line"
+         id="tspan3906"
+         style="stroke-width:0.0352778"
+         x="43.20525"
+         y="68.552254">Robot</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';opacity:0.95;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.0352777;stroke-dasharray:none"
+       x="70.269379"
+       y="75.592834"
+       id="text3912"><tspan
+         sodipodi:role="line"
+         id="tspan3910"
+         style="stroke-width:0.0352778"
+         x="70.269379"
+         y="75.592834">Camera</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';opacity:0.95;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.0352777;stroke-dasharray:none"
+       x="85.778107"
+       y="121.34132"
+       id="text3916"
+       inkscape:export-filename="correcting-gyro-yaw-angle.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan3914"
+         style="stroke-width:0.0352778"
+         x="85.778107"
+         y="121.34132">rectangle aligned to field frame of reference</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';opacity:0.95;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.0352777;stroke-dasharray:none"
+       x="75.554947"
+       y="128.76788"
+       id="text3916-3"
+       inkscape:export-filename="correcting-gyro-yaw-angle.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan3914-6"
+         style="stroke-width:0.0352778"
+         x="75.554947"
+         y="128.76788">x-y plane of the field frame of reference</tspan></text>
+  </g>
+</svg>

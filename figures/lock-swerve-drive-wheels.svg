@@ -27,9 +27,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.68862935"
-     inkscape:cx="329.64032"
-     inkscape:cy="534.39488"
+     inkscape:zoom="0.82106903"
+     inkscape:cx="321.53204"
+     inkscape:cy="474.99051"
      inkscape:window-width="1920"
      inkscape:window-height="939"
      inkscape:window-x="0"
@@ -56,69 +56,52 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="opacity:0.95;fill:#eaeaea;stroke:#000000;stroke-width:0.688136;stroke-dasharray:none;fill-opacity:1"
+       style="opacity:0.95;fill:#eaeaea;stroke:#000000;stroke-width:0.52916667;stroke-dasharray:none;fill-opacity:1"
        id="rect78446"
        width="59.311863"
        height="59.311863"
        x="30.344067"
        y="30.344067"
-       inkscape:export-filename="lock-swerve-drive-wheels.png"
+       inkscape:export-filename="lock-swerve-drive-wheels-tangentially.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
-       style="opacity:0.95;fill:#ffffff;stroke:#000000;stroke-width:0.749079;stroke-dasharray:none;fill-opacity:1"
+       style="opacity:0.95;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none"
        id="rect78811"
-       width="14.250921"
-       height="12.441577"
-       x="35.374542"
-       y="35.374542" />
+       width="14.201104"
+       height="14.201103"
+       x="35.835266"
+       y="35.399452" />
     <path
-       style="opacity:0.95;fill:#ffffff;stroke:#000000;stroke-width:1.41111111;stroke-dasharray:none;fill-opacity:1"
-       d="M 45.418856,38.120796 39.20527,45.714605"
+       style="opacity:0.95;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.43441;stroke-dasharray:none"
+       d="m 46.423343,38.127367 -6.97504,6.990121"
        id="path78867" />
-    <g
-       id="g78924"
-       transform="rotate(-90,55.545635,14.705126)"
-       style="fill:#ffffff;fill-opacity:1">
-      <rect
-         style="opacity:0.95;fill:#ffffff;stroke:#000000;stroke-width:0.749079;stroke-dasharray:none;fill-opacity:1"
-         id="rect78811-5"
-         width="14.250921"
-         height="12.441577"
-         x="21.529972"
-         y="30.438702" />
-      <path
-         style="opacity:0.95;fill:#ffffff;stroke:#000000;stroke-width:1.41111;stroke-dasharray:none;fill-opacity:1"
-         d="m 31.574299,33.184952 -6.213588,7.593809"
-         id="path78867-6" />
-    </g>
     <rect
-       style="opacity:0.95;fill:#ffffff;stroke:#000000;stroke-width:0.749079;stroke-dasharray:none;fill-opacity:1"
-       id="rect78811-2"
-       width="14.250921"
-       height="12.441577"
-       x="35.374538"
-       y="70.374565" />
+       style="opacity:0.95;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none"
+       id="rect78811-5"
+       width="14.201104"
+       height="14.201103"
+       x="-48.695877"
+       y="69.324265"
+       transform="rotate(-90)" />
     <path
-       style="opacity:0.95;fill:#ffffff;stroke:#000000;stroke-width:1.41111;stroke-dasharray:none;fill-opacity:1"
-       d="M 46.108971,80.024507 38.515162,73.810918"
-       id="path78867-9" />
-    <g
-       id="g78924-1"
-       transform="translate(48.844575,39.935838)"
-       style="fill:#ffffff;fill-opacity:1">
-      <rect
-         style="opacity:0.95;fill:#ffffff;stroke:#000000;stroke-width:0.749079;stroke-dasharray:none;fill-opacity:1"
-         id="rect78811-5-2"
-         width="14.250921"
-         height="12.441577"
-         x="21.529972"
-         y="30.438702" />
-      <path
-         style="opacity:0.95;fill:#ffffff;stroke:#000000;stroke-width:1.41111;stroke-dasharray:none;fill-opacity:1"
-         d="m 31.574299,33.184952 -6.213588,7.593809"
-         id="path78867-6-7" />
-    </g>
+       style="opacity:0.95;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.43558;stroke-dasharray:none"
+       d="m 72.926195,38.685274 6.997231,6.979272"
+       id="path78867-6" />
+    <rect
+       style="opacity:0.95;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none"
+       id="rect78811-2"
+       width="14.201103"
+       height="14.201103"
+       x="35.835266"
+       y="70.399475" />
+    <rect
+       style="opacity:0.95;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none"
+       id="rect78811-5-2"
+       width="14.201104"
+       height="14.201103"
+       x="69.324265"
+       y="70.399452" />
     <text
        xml:space="preserve"
        transform="scale(0.26458333)"
@@ -177,5 +160,132 @@
        d="m 84.562941,72.562142 10.00314,0"
        id="path79011"
        sodipodi:nodetypes="cc" />
+    <path
+       style="opacity:0.95;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.43441;stroke-dasharray:none"
+       d="m 79.912331,73.189236 -6.97504,6.990121"
+       id="path78867-2" />
+    <path
+       style="opacity:0.95;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.43558;stroke-dasharray:none"
+       d="m 39.437207,73.747143 6.997231,6.979272"
+       id="path78867-6-2" />
+    <rect
+       style="opacity:0.95;fill:#eaeaea;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none"
+       id="rect78446-8"
+       width="59.311863"
+       height="59.311863"
+       x="32.157543"
+       y="126.52483"
+       inkscape:export-filename="lock-swerve-drive-wheels-radially.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       id="g5675"
+       transform="rotate(90,44.749302,138.68077)">
+      <rect
+         style="opacity:0.95;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none"
+         id="rect78811-9"
+         width="14.201104"
+         height="14.201103"
+         x="37.64875"
+         y="131.58022" />
+      <path
+         style="opacity:0.95;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.43441;stroke-dasharray:none"
+         d="m 48.236825,134.30812 -6.97504,6.99012"
+         id="path78867-7" />
+    </g>
+    <g
+       id="g5679"
+       transform="rotate(90,78.2383,137.77608)">
+      <rect
+         style="opacity:0.95;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none"
+         id="rect78811-5-3"
+         width="14.201104"
+         height="14.201103"
+         x="-144.87663"
+         y="71.137749"
+         transform="rotate(-90)" />
+      <path
+         style="opacity:0.95;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.43558;stroke-dasharray:none"
+         d="m 74.739677,134.86603 6.997231,6.97927"
+         id="path78867-6-6" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;opacity:0.95;fill:#000000;stroke:#000000;stroke-width:0.0705556;stroke-dasharray:none"
+       x="99.480637"
+       y="159.98505"
+       id="text78995-9"><tspan
+         sodipodi:role="line"
+         id="tspan78993-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.0705556;stroke-dasharray:none"
+         x="99.480637"
+         y="159.98505">Robot</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;opacity:0.95;fill:#000000;stroke:#000000;stroke-width:0.0705556;stroke-dasharray:none"
+       x="99.090256"
+       y="169.31975"
+       id="text78999-1"><tspan
+         sodipodi:role="line"
+         id="tspan78997-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.0705556;stroke-dasharray:none"
+         x="99.090256"
+         y="169.31975">Swerve Module</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;opacity:0.95;fill:#000000;stroke:#000000;stroke-width:0.0705556;stroke-dasharray:none"
+       x="98.910782"
+       y="176.22098"
+       id="text79003-4"><tspan
+         sodipodi:role="line"
+         id="tspan79001-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.0705556;stroke-dasharray:none"
+         x="98.910782"
+         y="176.22098">Wheel</tspan></text>
+    <path
+       style="opacity:0.95;fill:#000000;stroke:#000000;stroke-width:0.0705556;stroke-dasharray:none"
+       d="m 92.101718,159.05893 4.663443,-0.2469"
+       id="path79005-8"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="opacity:0.95;fill:#000000;stroke:#000000;stroke-width:0.0705556;stroke-dasharray:none"
+       d="m 78.447768,173.86056 19.272167,0.10766"
+       id="path79009-4"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="opacity:0.95;fill:#000000;stroke:#000000;stroke-width:0.0705556;stroke-dasharray:none"
+       d="M 86.376423,168.7429 H 96.379561"
+       id="path79011-5"
+       sodipodi:nodetypes="cc" />
+    <g
+       id="g5683"
+       transform="rotate(90,78.238301,173.68077)">
+      <rect
+         style="opacity:0.95;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none"
+         id="rect78811-5-2-2"
+         width="14.201104"
+         height="14.201103"
+         x="71.137749"
+         y="166.58022" />
+      <path
+         style="opacity:0.95;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.43441;stroke-dasharray:none"
+         d="m 81.725813,169.36999 -6.97504,6.99012"
+         id="path78867-2-0" />
+    </g>
+    <g
+       id="g5687"
+       transform="rotate(90,44.749302,173.68078)">
+      <rect
+         style="opacity:0.95;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none"
+         id="rect78811-2-1"
+         width="14.201103"
+         height="14.201103"
+         x="37.64875"
+         y="166.58023" />
+      <path
+         style="opacity:0.95;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.43558;stroke-dasharray:none"
+         d="m 41.250689,169.9279 6.997231,6.97927"
+         id="path78867-6-2-3" />
+    </g>
   </g>
 </svg>
